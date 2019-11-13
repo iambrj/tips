@@ -4,3 +4,5 @@
 * Use critical thinking to carefully reason about everything
 * Memorizing a math formula without understanding the intuition behind it is
 	like memorizing code without understanding what it does
+* Attempting to solve mathematical problems by intuition will stop working as
+  soon as the problems become less intuitive than you are used to
