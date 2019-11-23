@@ -6,3 +6,4 @@
 	like memorizing code without understanding what it does
 * Attempting to solve mathematical problems by intuition will stop working as
   soon as the problems become less intuitive than you are used to
+* Rule of thumb: avoid functions that might fail without warning
